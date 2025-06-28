@@ -1,4 +1,4 @@
-è👋 About Me
+👋 About Me
 
 I'm a Machine Learning and Deep Learning student currently building projects. I'm passionate about solving real-world problems using AI and constantly improving my skills through hands-on learning.
 
@@ -20,7 +20,7 @@ Participating in Kaggle challenges to grow in practical ML and DL
 
 Interested in research and building ML workflows
 
-🌱 Goals
+🎯 Goals
 
 Master advanced ML/DL techniques
 
