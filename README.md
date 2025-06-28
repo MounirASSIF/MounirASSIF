@@ -27,3 +27,9 @@ Master advanced ML/DL techniques
 Collaborate on innovative AI projects
 
 Build and launch my own AI-driven applications
+
+### 🔗 Connect with Me
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/your-username)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-username)
