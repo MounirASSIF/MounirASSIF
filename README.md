@@ -1,4 +1,4 @@
-👋 About Me
+è👋 About Me
 
 I'm a Machine Learning and Deep Learning student currently building projects. I'm passionate about solving real-world problems using AI and constantly improving my skills through hands-on learning.
 
